@@ -1,0 +1,21 @@
+Artificial Intelligence is the field of creating computer systems that can perform tasks that normally require human intelligence.
+
+Machine Learning is a branch of Artificial Intelligence that allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Python is a popular programming language used in Artificial Intelligence, Machine Learning, Data Science, Web Development and Automation.
+
+NumPy is a Python library used for numerical computing and working with arrays.
+
+Pandas is a Python library used for data analysis and data manipulation.
+
+SQL is a language used to communicate with relational databases. It can be used to store, retrieve, update and delete data.
+
+RAG stands for Retrieval Augmented Generation. A RAG system retrieves relevant information from a knowledge base and uses that information to answer a user's question.
+
+ChromaDB is a vector database commonly used to store and search embeddings.
+
+Embeddings are numerical representations of text that allow computers to compare the meaning or similarity between pieces of text.
+
+Streamlit is a Python framework that can be used to build simple interactive web applications quickly.
+
+An AI Knowledge Assistant can use document retrieval to help users find relevant information from their own documents.
